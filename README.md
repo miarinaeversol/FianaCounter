@@ -1,0 +1,2 @@
+# FianaCounter
+First Project Pharo
